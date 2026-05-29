@@ -1,16 +1,33 @@
-## Hi there 👋
+# StarNama
 
-<!--
-**starnama/starnama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI Website Monitoring & SEO Intelligence Platform
 
-Here are some ideas to get you started:
+## Features
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✅ Website Uptime Monitoring
+
+✅ Website Health Analysis
+
+✅ AI SEO Diagnostics
+
+✅ Security Header Checks
+
+✅ API Access
+
+✅ Performance Monitoring
+
+✅ Status Pages
+
+✅ Website Technology Detection
+
+## Website
+
+https://starnama.com
+
+## API Documentation
+
+https://starnama.com/api-docs/
+
+## Contact
+
+support@starnama.com
